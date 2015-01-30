@@ -1,27 +1,27 @@
 {
-  "name": "starwood",
-  "version": "0.1.1",
-  "description": "starwood hotels price fetcher",
+  "name": "hilton",
+  "version": "0.0.0",
+  "description": "hilton hotels price fetcher",
   "main": "index.js",
   "scripts": {
-    "test": "DEBUG=starwood,starwood:* node_modules/.bin/mocha tests/search.js",
-    "dev": "DEBUG=starwood,starwood:*,sdk,sdk:* node example/example.js",
+    "test": "DEBUG=hilton,hilton:* node_modules/.bin/mocha tests/search.js",
+    "dev": "DEBUG=hilton,hilton:*,sdk,sdk:* node example/example.js",
     "example": "npm run dev"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sayoou/starwood.git"
+    "url": "https://github.com/sayoou/hilton.git"
   },
   "keywords": [
     "spg",
-    "starwood"
+    "hilton"
   ],
   "author": "turing <o.u.turing@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sayoou/starwood/issues"
+    "url": "https://github.com/sayoou/hilton/issues"
   },
-  "homepage": "https://github.com/sayoou/starwood",
+  "homepage": "https://github.com/sayoou/hilton",
   "dependencies": {
     "cheerio": "^0.18.0",
     "debug": "^2.1.0",

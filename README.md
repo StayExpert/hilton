@@ -1,17 +1,17 @@
-## starwood ![NPM version](https://img.shields.io/npm/v/starwood.svg?style=flat) 
+## hilton ![NPM version](https://img.shields.io/npm/v/hilton.svg?style=flat) 
 
-a SDK of Starwood hotels APIs.
+a SDK of hilton hotels APIs.
 
 ### Installation
 ```bash
-$ npm install starwood --save
+$ npm install hilton --save
 ```
 
 ### Example
 ```js
-var starwood = require('starwood');
+var hilton = require('hilton');
 
-starwood.search({
+hilton.search({
   country: 'CN',
   province: 'CNHP',
   city: 'Sanya',
@@ -46,7 +46,7 @@ Response JSON would like this:
 ```
 
 ### API
-Check this file: `lib/starwood.js`
+Check this file: `lib/hilton.js`
 
 ### Tests
 ```bash
