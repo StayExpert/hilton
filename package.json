@@ -1,6 +1,6 @@
 {
   "name": "hilton",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "hilton hotels price fetcher",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 ## hilton ![NPM version](https://img.shields.io/npm/v/hilton.svg?style=flat) 
 
-a SDK of hilton hotels APIs.
+a SDK of hilton hotels APIs. [WIP yet]
 
 ### Installation
 ```bash
