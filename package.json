@@ -1,7 +1,7 @@
 {
   "name": "hilton",
-  "version": "0.0.1",
-  "description": "hilton hotels price fetcher",
+  "version": "0.0.2",
+  "description": "a hilton hotels price fetcher",
   "main": "index.js",
   "scripts": {
     "test": "DEBUG=hilton,hilton:* node_modules/.bin/mocha tests/search.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sayoou/hilton.git"
+    "url": "https://github.com/StayExpert/hilton.git"
   },
   "keywords": [
     "spg",
@@ -19,9 +19,9 @@
   "author": "turing <o.u.turing@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sayoou/hilton/issues"
+    "url": "https://github.com/StayExpert/hilton/issues"
   },
-  "homepage": "https://github.com/sayoou/hilton",
+  "homepage": "https://github.com/StayExpert/hilton",
   "dependencies": {
     "cheerio": "^0.18.0",
     "debug": "^2.1.0",
